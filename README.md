@@ -1,12 +1,5 @@
-# RestAPI
-CodeIgniter Restfull API Blank Project
+# CRUD Rest API Use Codeigniter Framework
 
-Author: Renaldi | <a href='https://renaldirey.id/ahli-dan-pakar-seo-indonesia/' title='Ahli SEO'>Ahli SEO</a>, <a href='https://renaldirey.id/ahli-dan-pakar-seo-indonesia/' title='Pakar SEO'>Pakar SEO</a>, <a href='https://renaldirey.id/ahli-dan-pakar-seo-indonesia/' title='Master SEO'>Master SEO</a>, <a href='https://renaldirey.id/ahli-dan-pakar-seo-indonesia/' title='Mastah SEO'>Mastah SEO</a>, <a href='https://renaldirey.id/ahli-dan-pakar-seo-indonesia/' title='Ahli dan Pakar SEO'>Ahli dan Pakar SEO</a>
+Simple crud rest api menggunakan codeigniter php framework
 
-Website: https://renaldirey.id || http://renseo.blogspot.com/
-
-Facebook: fb.com/javier.renaldi.3
-
-Tweet: twitter.com/R21_Zoldyck
-
-Instagram: instagram.com/rencode2198
+Abaikan: <a href="https://seo.renaldirey.id/">SEO Service</a>, <a href="https://seo.renaldirey.id/">Jasa SEO</a>, <a href='https://renaldirey.id/ahli-dan-pakar-seo-indonesia/' title='Ahli SEO'>Ahli SEO</a>, <a href='https://renaldirey.id/ahli-dan-pakar-seo-indonesia/' title='Pakar SEO'>Pakar SEO</a>, <a href='https://renaldirey.id/ahli-dan-pakar-seo-indonesia/' title='Master SEO'>Master SEO</a>, <a href='https://renaldirey.id/ahli-dan-pakar-seo-indonesia/' title='Mastah SEO'>Mastah SEO</a>, <a href='https://renaldirey.id/ahli-dan-pakar-seo-indonesia/' title='Praktisi SEO'>Praktisi SEO</a>
